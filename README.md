@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated typing header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hey%2C+I'm+Aman+Rawat+%F0%9F%91%8B;Full+Stack+%26+DSA+Enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hey%2C+I'm+Aman+Rawat+%F0%9F%91%8B;I+build+%26+ship+scalable+systems" alt="Typing SVG" />
 
 <!-- Animated wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:7B2FBE&height=120&section=header&animation=fadeIn" />

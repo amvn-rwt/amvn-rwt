@@ -19,10 +19,19 @@
 ```typescript
 const aman = {
   name: "Aman Rawat",
-  role: "Full Stack Developer",
-  focus: ["Clean Code", "DSA", "Scalable Systems"],
-  currently: "Grinding LeetCode & building cool stuff 🚀",
-  goal: "FAANG-level engineer",
+  title: "Senior Software Engineer",
+  experience: "3.5+ years",
+  domain: "Security Infrastructure & Distributed Systems",
+  stack: ["Go", "Python", "TypeScript", "PostgreSQL", "AWS"],
+  currently: [
+    "Building DSPM tooling for cloud data classification",
+    "Architecting graph-based attack path analyzers",
+  ],
+  beliefs: [
+    "Systems should scale before they need to",
+    "Observability is not optional",
+    "Good abstractions outlive clever hacks",
+  ],
 };
 ```
 

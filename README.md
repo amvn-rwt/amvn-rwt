@@ -19,9 +19,8 @@
 ```typescript
 const aman = {
   name: "Aman Rawat",
-  title: "Senior Software Engineer",
+  title: "Senior Software Engineer - Frontend",
   experience: "3.5+ years",
-  domain: "Security Infrastructure & Distributed Systems",
   stack: ["Go", "Python", "TypeScript", "PostgreSQL", "AWS"],
   currently: [
     "Building DSPM tooling for cloud data classification",
